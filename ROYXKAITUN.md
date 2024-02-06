@@ -58,7 +58,7 @@ _G.KaitunConfig = {
     ["Soul Guitar"] = true,
 
     -- Add On
-    ["Farm When Lvl Max"] = "Bone", -- Bone , Katakuri , Coco
+    ["Farm When Lvl Max"] = "Katakuri", -- Bone , Katakuri , Coco
     ["Race Lock"] = "notlock", -- Human , Mink , Fishman , put other mean not lock
     ["FPS Cap"] = 50,
 
